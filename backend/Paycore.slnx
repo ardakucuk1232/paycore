@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Paycore.Api/Paycore.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Paycore.IntegrationTests/Paycore.IntegrationTests.csproj" />
+  </Folder>
+</Solution>
